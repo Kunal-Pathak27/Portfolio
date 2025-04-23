@@ -57,7 +57,7 @@ function Projects() {
               isBlog={false}
               title="Text Data Analysis - YouTube Case Study"
               description="Conducted data analysis on YouTube categories and trends using Sentiment Analysis and Word-cloud Generation."
-              ghLink="https://github.com"
+              ghLink="https://github.com/Kunal-Pathak27/Youtube-Analysis"
             />
           </Col>
         </Row>
