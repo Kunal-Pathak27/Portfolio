@@ -44,9 +44,10 @@ function Home2() {
               </i>
             </p>
           </Col>
-          <Col md={4} className="myAvtar">
-            <Tilt>
-              <img src={myImg} className="img-fluid" alt="avatar" />
+          <Col md={4} style={{ display: "flex", alignItems: 'center'}} >
+            <Tilt className=" ">
+              <img src={myImg} className="img-fluid" alt="avatar" style={{ borderRadius: '100%', height: '30rem', width: '100%' }}  />
+              {/* <img src={myImg} className="img-fluid" alt="avatar" style={{ borderRadius: '100%' }} /> */}
             </Tilt>
           </Col>
         </Row>
