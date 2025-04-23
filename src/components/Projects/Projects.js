@@ -37,7 +37,7 @@ function Projects() {
               isBlog={false}
               title="Shortest Path Finder"
               description="Implemented a shortest path finder using Dijkstra's Algorithm, applicable to GPS navigation for route optimization and network analysis for identifying efficient data transmission paths."
-              ghLink="https://github.com//"
+              ghLink="https://github.com/Kunal-Pathak27/Shortest-Path-Finder"
             />
           </Col>
 
