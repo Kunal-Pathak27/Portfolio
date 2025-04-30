@@ -5,7 +5,7 @@ import Particle from "../Particle";
 import Supervised from "../../Assets/Supervised Machine Learning Regression and Classification.png";
 import RProgramming from "../../Assets/RProgramming.png";
 import Data from "../../Assets/Data.png";
-import cpp from "../../Assets/Programming in C++ A Hands-on Introduction.png";
+import cpp from "./Programming in C++ A Hands-on Introduction.png";
 import bits from "../../Assets/The Bits and Bytes of Computer Networking.png";
 import excel from "../../Assets/Excel Skills for Data Analytics and Visualization.png";
 
