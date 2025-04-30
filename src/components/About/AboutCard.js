@@ -38,7 +38,7 @@ function AboutCard() {
         </blockquote>
       </Card.Body>
 
-      <Card.Body id="education-section">
+      {/* <Card.Body id="education-section">
         <blockquote className="blockquote mb-0">
           <h1>
             <strong className="purple">Certificates</strong>
@@ -58,7 +58,7 @@ function AboutCard() {
             </li>
           </ul>
         </blockquote>
-      </Card.Body>
+      </Card.Body> */}
 
       {/* Education Section with ID */}
       <Card.Body>
